@@ -30,8 +30,8 @@ public class EmailSendingServlet extends HttpServlet{
         //ServletContext context = getServletContext();
             host = "smtp.gmail.com";
             port = "465";
-            user = "goro.dishon@gmail.com";
-            pass = "qnferlxyfvdssisv";
+            user = "" //your email;
+            pass = ""//your password;
     }
  
     @Override
